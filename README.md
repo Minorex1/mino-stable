@@ -12,8 +12,7 @@ https://github.com/gummyantifi/Gum_Framework_Core/
 
 # Config
 
-More horses can be added in the config.lua
-List of Horses can be found here: https://sporny-dev.net/index.php?title=Peds
+You can edit horses in the config.lua
 
 # Credits
 
